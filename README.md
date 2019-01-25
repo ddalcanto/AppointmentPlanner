@@ -7,4 +7,4 @@ A simple application made in Java for logging appointments, as well as checking 
 #### Update 12/8/2018:
  - Application functioning with one appointment; bugs occur when multiple are created or checked.
   
- - Only one type of appointment implemented (dentist); more types to be implemented in the future following the fixes of the application's      current state
+ - Only one type of appointment implemented (dentist) - more types to be implemented in the future following the fixes of the application's      current state
